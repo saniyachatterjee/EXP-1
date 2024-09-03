@@ -1,6 +1,6 @@
-//Srihari Nair
-//PRN 23070123131
-//Exp 1
+//Name: Saniya Chatterjee
+//Prn: 23070123113
+//Class: EnTC B-2
 #include<iostream>
 
 int main(){
